@@ -3,30 +3,30 @@ public class A{
    public static void main(String[] args){
      /*
         Scanner sc = new Scanner(System.in);
-               System.out.println("请输入小明的分数");
+               System.out.println("???小??姆??");
              int score = sc.nextInt();
           if(score<60 && score>=0){
-                          System.out.println("回家跪搓衣板");  
+                          System.out.println("?丶夜????);  
           }else if(score>=60 && score<70){
-                          System.out.println("扫地一个礼拜");
+                          System.out.println("扫???????");
           }else if(score>=70 && score<80){
-                          System.out.println("三天不准出门");
+                          System.out.println("????准???");
           }else if(score>=80 && score<90){
-                          System.out.println("允许大lol 2小时");
+                          System.out.println("????ol 2小时");
           }else if(score>=90 && score<=100){
-                          System.out.println("出去旅游");
+                          System.out.println("??去??");
           }else{
-                          System.out.println("请正确输入分数");
+                          System.out.println("??确?????");
           }   
 }
 
            Scanner sc = new Scanner(System.in);
-           System.out.println("请输入一个年份");
+           System.out.println("???一?????);
             int year = sc.nextInt();
             if(year % 4 ==0 && year %100 !=0 || year %400 ==0){
-                  System.out.println("闰年");
+                  System.out.println("??");
 }           else{
-                   System.out.println("平年");
+                   System.out.println("平?");
 }
 }
 
@@ -35,42 +35,42 @@ String username ="admin";
 String password ="123456";
 
 Scanner sc = new Scanner(System.in);
-System.out.println("请输入用户名");
+System.out.println("???????");
 String uname = sc.next();
 if(username.equals(uname)){
 
-       System.out.println("请输入密码");
+       System.out.println("?????");
        String pw = sc.next();
       if(password.equals(pw)){
-          System.out.println("欢迎登陆"); 
+          System.out.println("??迎???"); 
 }  else{
-         System.out.println("密码错误");
+         System.out.println("?????);
         }    
 
 
 }else{
-     System.out.println("用户名错误");
+     System.out.println("???????);
       }
 */
 
      
      Scanner sc = new Scanner(System.in);
 
-     System.out.println("请输入字母");
+     System.out.println("????母");
      String na = sc.next();
      switch(){
          case "a":
-             System.out.println(" 最强大便");
+             System.out.println(" ?强??");
             break;
          case "b":
-              System.out.println("超凡大师");
+              System.out.println("???????");
              break;
          case "c":
-              System.out.println("璀璨钻石");
+              System.out.println("???石");
              break;
         default:
-              System.out.println("战5渣渣");
-             System.out.println("逗比")
+              System.out.println("战5??");
+             
 
               }
 
